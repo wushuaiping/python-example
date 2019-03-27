@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#---- 学习循环的demos ----#
 names = ['Michael', 'Bob', 'Tracy']
 print("打印名字")
 for name in names:

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#---- 计算 BMI 的小程序 ----#
 def bmiCalculate(height, weight):
     bmi = weight / (height ** 2)
     return bmi
